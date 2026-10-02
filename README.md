@@ -1,6 +1,7 @@
 # Hi, I'm Nesrine 👋
 
-**Full-Stack Web & Mobile Developer** based in Nabeul, Tunisia 🇹🇳
+**Full-Stack Web & Mobile Developer** based in Nabeul, Tunisia
+
 Recent graduate in Business Computing (E-Business), open to full-time opportunities.
 
 ## 🛠️ Tech Stack
